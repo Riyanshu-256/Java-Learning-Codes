@@ -1,7 +1,7 @@
 package Section_4;
 
-public class Program1 {
+public class P01_Hello_World {
     public static void main(String[] args) {
-        System.out.print("Hello, Tim");
+        System.out.print("Hello World");
     }
 }
