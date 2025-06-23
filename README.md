@@ -83,7 +83,7 @@ The codes are based on the **"Java Programming Masterclass for Software Develope
 
 ## ✍️ Author
 
-- **Name**: Sourav Kumar
+- **Name**: Riyanshu Sharma
 - **GitHub Profile**: [@Sharmariyanshu](https://github.com/Sharmariyanshu)
 
 ---
