@@ -9,6 +9,7 @@ Otherwise, if it is in the valid range, calculate if the year is a leap year and
 
 A year is a leap year if it is divisible by 4 but not by 100, or it is divisible by 400.
 
+//--------------------------------------------------------------------------------------------------------------------------------------//
 
 Write another method getDaysInMonth with two parameters month and year.  ​Both of type int.
 
