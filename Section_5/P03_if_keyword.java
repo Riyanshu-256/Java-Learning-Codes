@@ -1,4 +1,6 @@
-public class P03_if_Keyword {
+package Section_5;
+
+public class P03_if_keyword {
     public static void main(String[] args) {
           
           // boolean gameOver = true;
