@@ -24,7 +24,7 @@ public class P07_Method_Challenge {
      public static void answers (int score) {
           // Using the two methods
           int position = calculateHighScoreposition(score);
-          displayHighScoreposition("sourav", position);
+          displayHighScoreposition("riyanshu", position);
      }
      public static void main(String[] args) {
           
