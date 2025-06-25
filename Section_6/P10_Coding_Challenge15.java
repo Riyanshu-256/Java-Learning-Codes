@@ -21,7 +21,7 @@ If those conditions are not satisfied return -1 from the method to indicate inva
 
 package Section_6;
 
-public class P09_Coding_Challenge15 {
+public class P10_Coding_Challenge15 {
     public static void main(String[] args) {
         
     }
