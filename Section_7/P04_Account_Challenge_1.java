@@ -10,10 +10,14 @@ public class P04_Account_Challenge_1 {
 
 //---------------------------------------------------------CONSTRUCTOR--------------------------------------------------------------------//
 
+// 1st Constructor Declaration
     public P04_Account_Challenge_1() {  // Costructor declaration
+
+        this("11234564579234", 100000, "Default name", "Default address", "Default phone");  // this() => must used in the 1st line of constructor declaration and used for constructor chaining
         System.out.println("Empty constructor called");
     }
 
+// 2nd Constructor Declaration
     public P04_Account_Challenge_1(String accountNumber, double balance, String customerName, String email, String phone) {
         System.out.println("Account constructor with parameters called");
 
@@ -22,6 +26,16 @@ public class P04_Account_Challenge_1 {
         this.customerName = customerName;
         customerEmail = email;
         customerPhoneNo = phone;
+    }
+
+// 3rd Constructor Declaration
+
+    public P04_Account_Challenge_1(String customerName,  String customerEmail, String customerPhoneNo) {
+        this("11234564579234", 100000, customerName, customerEmail, customerPhoneNo);
+
+        // this.accountNumber = accountNumber;
+        // this.customerEmail = customerEmail;
+        // this.customerPhoneNo = customerPhoneNo;
     }
 
     // for deposite
