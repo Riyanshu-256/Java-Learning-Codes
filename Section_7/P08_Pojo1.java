@@ -19,9 +19,9 @@ public class P08_Pojo1 {   // Outer Class Declaration
         }
         
         P08_Pojo2 pojoStudent = new P08_Pojo2("78321479", "Aditya",
-                "12/11/1999", "Masters");
+            "12/11/1999", "Masters");
         P09_Pojo_Record recordStudent = new P09_Pojo_Record("fds567", "Chukundar",
-                "23/08/2002", "Java Masterclass");
+            "23/08/2002", "Java Masterclass");
 
         System.out.println(pojoStudent);
         System.out.println(recordStudent);
