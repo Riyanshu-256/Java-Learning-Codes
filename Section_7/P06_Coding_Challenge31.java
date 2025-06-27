@@ -56,6 +56,6 @@ public class P06_Coding_Challenge31 {
             return firstName;
         }
 
-        return firstName +" " + lastName;
+        return firstName + " " + lastName;
     }
 }

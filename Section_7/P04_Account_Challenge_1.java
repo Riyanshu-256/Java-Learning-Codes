@@ -8,6 +8,22 @@ public class P04_Account_Challenge_1 {
     private String customerEmail;
     private String customerPhoneNo;
 
+//---------------------------------------------------------CONSTRUCTOR--------------------------------------------------------------------//
+
+    public P04_Account_Challenge_1() {  // Costructor declaration
+        System.out.println("Empty constructor called");
+    }
+
+    public P04_Account_Challenge_1(String accountNumber, double balance, String customerName, String email, String phone) {
+        System.out.println("Account constructor with parameters called");
+
+        this.accountNumber = accountNumber;
+        this.balance = balance;
+        this.customerName = customerName;
+        customerEmail = email;
+        customerPhoneNo = phone;
+    }
+
     // for deposite
     public void depositFunds(double depositAmount) {
         balance += depositAmount;
