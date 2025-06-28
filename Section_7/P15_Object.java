@@ -1,4 +1,4 @@
-package Section_7.P14_INHERITANCE;
+package Section_7;
 
 public class P15_Object extends Object {
 
