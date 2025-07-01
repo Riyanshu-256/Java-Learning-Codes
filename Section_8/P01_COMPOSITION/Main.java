@@ -1,4 +1,4 @@
- Section_8.P01_COMPOSITION;
+package Section_8.P01_COMPOSITION;
 
 public class Main {
    ComputerCase theCase = new ComputerCase("2208", "Dell",
@@ -8,7 +8,7 @@ public class Main {
         Motherboard theMotherboard = new Motherboard("BJ-200", "Asus",
                 4, 6, "v2.44");
         Personal_Computer thePC = new Personal_Computer("2208", "Dell",
-      package          theCase, theMonitor, theMotherboard);
+                theCase, theMonitor, theMotherboard);
 
 //        thePC.getMonitor().drawPixelAt(10, 10, "red");
 //        thePC.getMotherboard().loadProgram("Windows OS");
