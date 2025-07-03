@@ -1,4 +1,4 @@
-package Section_8.P01_COMPOSITION.Composition_Challenge;
+package Section_8.P04_Composition_Challenge;
 
 public class Main {
     public static void main(String[] args) {
