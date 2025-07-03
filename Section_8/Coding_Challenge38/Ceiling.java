@@ -1,5 +1,5 @@
 package Section_8.Coding_Challenge38;
 
-public class Main {
+public class Ceiling {
     
 }
