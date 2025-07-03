@@ -56,4 +56,3 @@ class DishWasher {
             hasWorkToDo = false;
         }
     }
-}
