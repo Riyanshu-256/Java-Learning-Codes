@@ -7,6 +7,7 @@ public class Personal_Computer extends Product {
     private Motherboard motherboard;
 
     public Personal_Computer(String model, String manufacturer,
+
         ComputerCase computerCase, Monitor monitor,
         Motherboard motherboard) {
         super(model, manufacturer);
