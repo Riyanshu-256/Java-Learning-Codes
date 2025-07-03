@@ -9,7 +9,7 @@ package Section_8.P01_COMPOSITION;
 //     private int depth;
 
 //     // Constructor
-//     protected Product(String model, String manufacturer) {
+//     public Product(String model, String manufacturer) {
 //         this.model = model;
 //         this.manufacturer = manufacturer;
 //     }
@@ -52,7 +52,7 @@ package Section_8.P01_COMPOSITION;
 //         public void loadProgram(String programName) {
 //             System.out.println("Program" + programName + "is now loading...");
 //         }
-//     }
+//     } 
 
 //     // ComputerCase class
 //     class ComputerCase extends Product {
