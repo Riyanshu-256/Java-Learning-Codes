@@ -40,13 +40,13 @@ public class Main {
         System.out.println();
         System.out.println(newArray);
         System.out.println(Arrays.toString(newArray));
-        if (objectVariable instanceof int[]) {
-            System.out.println("objectVariable is really an int array");
-        }
-        Object[] objectArray = new Object[3];
-        objectArray[0] = "Hello";
-        objectArray[1] = new StringBuilder("World");
-        objectArray[2] = newArray;
+    //     if (objectVariable instanceof int[]) {
+    //         System.out.println("objectVariable is really an int array");
+    //     }
+    //     Object[] objectArray = new Object[3];
+    //     objectArray[0] = "Hello";
+    //     objectArray[1] = new StringBuilder("World");
+    //     objectArray[2] = newArray;
 
-    }
+     }
 }
