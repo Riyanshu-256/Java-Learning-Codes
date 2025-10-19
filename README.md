@@ -1,6 +1,6 @@
 # Java Programming Practice Repository 🚀
 
-Welcome to my Java Learning Repository!  
+Welcome to my Java Learning Repository!
 This repository contains my learning journey codes, examples, exercises, and mini-programs created while mastering Java programming.
 
 The codes are based on the **"Java Programming Masterclass for Software Developers" by Tim Buchalka (Udemy)** — one of the most comprehensive courses for building a strong foundation in Java.
